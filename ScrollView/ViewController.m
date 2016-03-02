@@ -25,6 +25,8 @@
 - (void)viewDidLoad {
     
     [super viewDidLoad];
+    
+    NSLog(@"修改过了");
    
     NSArray * array =@[@"界面1",@"界面2",@"界面3",@"界面4",@"界面5",@"界面6",@"界面7"];
 
